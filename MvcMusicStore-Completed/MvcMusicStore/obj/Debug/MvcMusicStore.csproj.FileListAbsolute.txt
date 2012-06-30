@@ -19,3 +19,10 @@ C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bi
 C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\motorbid\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
